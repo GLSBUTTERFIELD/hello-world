@@ -2,3 +2,4 @@ hello! this is my first document
 
 I'm making my first change locally.
 
+here is my second change. and another one.
